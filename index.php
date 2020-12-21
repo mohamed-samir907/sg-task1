@@ -12,6 +12,8 @@ echo '<h1>task1 1</h1>';
  */
 function calcAge($birthday)
 {
+
+    
     if (strtotime($birthday)) {
 
         $birthday = date_parse($birthday);
