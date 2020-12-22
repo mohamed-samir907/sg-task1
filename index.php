@@ -1,6 +1,5 @@
 <?php declare(strict_types=1);
 
-
 /* ***      task1  1   *********    */
 
 echo '<h1>task1 1</h1>';
